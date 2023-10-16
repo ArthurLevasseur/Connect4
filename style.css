@@ -1,0 +1,16 @@
+/* Style de la table */
+table {
+    border-collapse: collapse;
+}
+
+/* Style pour les cellules de la table */
+td, th {
+    border: 1px solid #000;
+    padding: 8px;
+}
+
+td {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+}
